@@ -1,0 +1,11 @@
+# Employee Management System
+
+The Employee Management System is a Python-based project that uses SQLite to manage employee information. 
+
+It provides two roles: Admin and Employee. 
+
+The Admin can add, view, search, update, and delete employee details, and manage leave requests.
+Employees can view their personal profiles, apply for leave, and check leave status. 
+ 
+ 
+ This project helps reduce manual work and makes employee data management easier and more efficient.
